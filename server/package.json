@@ -1,0 +1,21 @@
+{
+  "name": "youtube-transcript-proxy",
+  "version": "1.0.0",
+  "description": "Simple proxy server for fetching YouTube transcripts",
+  "main": "transcript-proxy.js",
+  "scripts": {
+    "start": "node transcript-proxy.js",
+    "dev": "nodemon transcript-proxy.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "youtube-transcript": "^1.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["youtube", "transcript", "proxy", "api"],
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,12 @@
+
+{
+  "name": "VisualMind AI",
+  "title": "VisualMind AI: Transform Any Video Into Interactive Study Notes",
+  "subtitle": "Revolutionizing Learning with Gemini-Powered Visual Intelligence",
+  "description": "An intelligent learning companion that instantly transforms YouTube videos, lectures, and meetings into beautifully structured visual notes with AI-generated diagrams. Powered by Google's Gemini 2.5 Flash and Imagen 4.0, it turns passive video watching into active, visual learning experiences.",
+  "hackathon": "Nano Banana 48 Hour Hackathon",
+  "sponsor": "Google LLC",
+  "technologies": ["Gemini 2.5 Flash", "Gemini Imagen 4.0", "React 19", "TypeScript", "Vite"],
+  "category": "Education & Learning",
+  "target_audience": "Students, Professionals, Lifelong Learners"
+}
