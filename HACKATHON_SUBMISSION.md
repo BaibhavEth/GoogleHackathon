@@ -48,7 +48,7 @@ VisualMind AI leverages the full power of Google's Gemini ecosystem to create th
 
 ### AI Integration
 - **Google Gemini 2.5 Flash** for content analysis and structured output
-- **Gemini Imagen 4.0** for visual generation
+- **Gemini Nano Banana for visual edits**
 - **Structured JSON Schema** for consistent note formatting
 - **fal.ai Integration** as cost-effective alternative
 
